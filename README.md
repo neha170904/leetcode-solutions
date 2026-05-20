@@ -1,36 +1,55 @@
 <div align="center">
 
-# 🧠 leetcode-solutions
+# ⚡ LeetCode Solutions
 
-**One problem at a time.**
+**A personal log of my DSA journey — one problem at a time.**
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Problems](https://img.shields.io/badge/Problems%20Solved-8-blueviolet?style=flat-square)
+![Started](https://img.shields.io/badge/Started-May%202026-orange?style=flat-square)
 
 </div>
 
 ---
 
-My personal repo for grinding DSA using [Striver's A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/). Just started — solving problems daily in C++.
+## 🚀 Overview
 
-**Focus areas:** Arrays · Strings · Linked Lists · Binary Search · Trees · DP · Recursion
+- **Language:** C++
+- **Goal:** Solving problems daily to build strong DSA fundamentals
+- **Reference:** [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+- **Focus Areas:** Arrays, Strings, Linked Lists, Binary Search, Trees & Graphs, Dynamic Programming, Recursion
 
 ---
 
-| Problem | Approach | Difficulty |
-|---------|----------|------------|
-| Check Sorted Rotated Array | Linear scan | 🟢 Easy |
-| Max Consecutive Ones | Sliding window | 🟢 Easy |
-| Move Zeroes | Two pointers | 🟢 Easy |
-| Palindrome Number | Math | 🟢 Easy |
-| Remove Duplicates | Two pointers | 🟢 Easy |
-| Rotate Array | Reverse trick | 🟡 Medium |
-| Single Number | XOR | 🟢 Easy |
-| Two Sum | Brute force | 🟢 Easy |
+## 📊 Solution Progress
+
+| Category | Difficulty | Status |
+|----------|------------|--------|
+| Arrays | Easy/Medium | 🟢 Active |
+| Strings | Easy/Medium | 🟡 Upcoming |
+| Linked Lists | Medium | 🟡 Upcoming |
+| Binary Search | Medium | 🔴 Planned |
+| Trees & Graphs | Medium/Hard | 🔴 Planned |
+| Dynamic Programming | Hard | 🔴 Planned |
+
+---
+
+## 📁 Repository Structure
+
+```
+leetcode-solutions/
+├── Arrays/
+├── Strings/
+├── Linked Lists/
+├── Binary Search/
+├── Trees & Graphs/
+└── Dynamic Programming/
+```
 
 ---
 
 <div align="center">
-Made with 🖤 and a lot of <code>cout << "debug"</code>
+
+*Consistency beats talent when talent doesn't show up.* 💪
+
 </div>
