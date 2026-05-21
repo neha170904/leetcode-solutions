@@ -15,7 +15,7 @@
 ## 🚀 Overview
 
 - **Language:** C++
-- **Goal:** Solving problems daily to build strong DSA fundamentals
+- **Goal:** Solving problems daily to build strong DSA fundamentals and Consistency.
 - **Reference:** [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - **Focus Areas:** Arrays, Strings, Linked Lists, Binary Search, Trees & Graphs, Dynamic Programming, Recursion
 
