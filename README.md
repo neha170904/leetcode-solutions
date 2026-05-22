@@ -26,7 +26,7 @@
 | Category | Difficulty | Status |
 |----------|------------|--------|
 | Arrays | Easy/Medium | 🟢 Active |
-| Strings | Easy/Medium | 🟡 Upcoming |
+| Strings | Easy/Medium | 🟡 Active |
 | Linked Lists | Medium | 🟡 Upcoming |
 | Binary Search | Medium | 🔴 Planned |
 | Trees & Graphs | Medium/Hard | 🔴 Planned |
